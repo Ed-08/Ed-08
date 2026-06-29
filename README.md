@@ -7,6 +7,7 @@
 <h2>📜 Certifications</h2>
 
 - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/9c575815-2260-4d96-ab55-5f869386d2f3/public_url)
+- [Technical Introduction to Cybersecurity 3.0](https://www.credly.com/badges/0862d31d-4e82-4d9a-84d6-d526bb7aa3bf/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
