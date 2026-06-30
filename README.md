@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luc! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Luc!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
