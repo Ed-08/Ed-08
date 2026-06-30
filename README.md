@@ -1,11 +1,9 @@
 <h1>Hi, I'm Luc Edouard!</h1>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -24,6 +22,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </a>
 </div>
 
+## Projects
+- Detection Lab
+- SOC Automation Project
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
