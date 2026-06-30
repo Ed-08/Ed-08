@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luc!
+<h1>Hi, I'm Luc Edouard!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
