@@ -6,9 +6,14 @@
 
 <h2>📜 Certifications</h2>
 
-- [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/9c575815-2260-4d96-ab55-5f869386d2f3/public_url)
-- [Technical Introduction to Cybersecurity 3.0](https://www.credly.com/badges/0862d31d-4e82-4d9a-84d6-d526bb7aa3bf/public_url)
-
+<div>
+  <a href="https://www.credly.com/badges/9c575815-2260-4d96-ab55-5f869386d2f3/public_url">
+  <img src="https://img.shields.io/badge/Fortinet-NSE%201-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+</a>
+  <a href="https://www.credly.com/badges/0862d31d-4e82-4d9a-84d6-d526bb7aa3bf/public_url">
+  <img src="https://img.shields.io/badge/Fortinet-NSE%202-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+</a>
+</div>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -21,16 +26,3 @@
 [linkedin]: https://linkedin.com/in/luc-edouard-yombi-53063a415
 
 <!--
-**Ed-08/Ed-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
