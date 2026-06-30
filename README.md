@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luc Edouard!
+<h1>Hi, I'm Luc Edouard!</h1>
 
 [Brief Introduction - Remove this afterwards]
 
