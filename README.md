@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Network Supervivion Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Network Supervivion Lab](https://github.com/Ed-08/NetworkSupervisionLab/tree/main)
 
 <h2>📜 Certifications</h2>
 
