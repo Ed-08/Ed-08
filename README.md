@@ -93,18 +93,6 @@ I am actively developing practical experience in:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ed-08&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-08&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 # 🚀 Currently Working On
 
 - 📚 Expanding my cybersecurity knowledge
@@ -132,4 +120,3 @@ I am actively developing practical experience in:
 </a>
 
 </p>
-```
