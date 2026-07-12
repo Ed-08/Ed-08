@@ -69,7 +69,6 @@ I am actively developing practical experience in:
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### Virtualization
 
